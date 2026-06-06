@@ -847,4 +847,3 @@ function AdminPanel({ products, orders, newProd, setNewProd, editProd, setEditPr
   );
 } 
 
-shu kodni telegram botmga ulamoqchiman nima qilishim kerak va uni qanday serverga joylayman
