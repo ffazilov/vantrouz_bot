@@ -1,7 +1,5 @@
 import { useState, useRef } from "react";
 
-uses: ./.github/workflows/ready-to-merge-workflow.yml
-
 // ── ADMIN CREDENTIALS ──────────────────────────────────────
 const ADMIN_USERNAME = "fazilov";
 const ADMIN_PASSWORD = "Nkjmvhgb1.";
